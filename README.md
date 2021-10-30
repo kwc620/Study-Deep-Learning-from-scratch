@@ -1,6 +1,8 @@
 # Deep Learning from Scratch
 
-### Written by Steve Ive
+### Written by Paul Kim
+
+### Originally written by Steve Ive
 
 https://www.github.com/steveive108
 
